@@ -3,7 +3,7 @@ Team members: Yasutsuna and john-cena
 conventions: all man style
 
 check in- ramon
-check in- Karl
+check in- Karl Wong
 #######################
 Starter Webapp - Quotes
 #######################
