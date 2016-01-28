@@ -1,8 +1,9 @@
-Team members: Yastasuna and john-cena
+Team members: Yasutsuna and john-cena
 
-conventions: allman style
+conventions: all man style
 
 check in- ramon
+check in- Karl
 #######################
 Starter Webapp - Quotes
 #######################
