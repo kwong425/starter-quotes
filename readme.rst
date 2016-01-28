@@ -1,6 +1,11 @@
+Team members: Yastasuna and john-cena
+
+conventions: allman style
+
 #######################
 Starter Webapp - Quotes
 #######################
+
 
 This is the starter webapp for Tutorial ci-normal01
 
