@@ -29,5 +29,16 @@ class First extends Application {
         $this->data = array_merge($this->data, $record);
         $this->render();
     }
-   
+    
+    //  This will call on the quote that is routed by show/num
+    
+        function gimme($id) 
+    {
+        $this->data['pagebody'] = 'justone'; // We wnat to view this
+        $record = $this->quotes->get($id); //Grabs the get method in quotes
+        $this->data = array_merge($this->data, $record);
+        $this->render();
+    }
+    
 }
+
