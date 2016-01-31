@@ -1,5 +1,7 @@
 Newest at the top
 
+01/30/2016, 10:56pm. fixed wisdom, reg expression route + Wise.php controller
+01/30/2016, 10:47pm. added jpg to /data folder
 01/29/2016, 6:41pm. created link 2 (last)
 01/29/2016, 6:30pm. fixed link 7 (bing)
 01/29/2016, 6:30pm. fixed link 5 (show/3)
