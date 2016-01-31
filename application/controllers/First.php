@@ -19,4 +19,15 @@ class First extends Application {
         
         $this->render();
     }
+     //-------------------------------------------------------------
+    //  This will call on the bob monkhouse quote.
+    //-------------------------------------------------------------
+    function bob() 
+    {
+        $this->data['pagebody'] = 'justone'; // We want this view
+        $record = $this->quotes->first(); //Grab the first quote 
+        $this->data = array_merge($this->data, $record);
+        $this->render();
+    }
+   
 }
