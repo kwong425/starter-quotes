@@ -1,8 +1,8 @@
 Newest at the top
 
 
-
-
-01/29/2016, 5:30pm. Fixed link 5
+01/29/2016, 5:55pm. created link 8
+01/29/2016, 5:41pm. created link 3
+01/29/2016, 5:30pm. created link 5
 01/29/2016, 5:20pm. added function cool
 01/28/2016, 1:53pm. Initial setup 

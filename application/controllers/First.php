@@ -22,7 +22,7 @@ class First extends Application {
      //-------------------------------------------------------------
     //  This will call on the bob monkhouse quote.
     //-------------------------------------------------------------
-    function bob() 
+    function zzz() 
     {
         $this->data['pagebody'] = 'justone'; // We want this view
         $record = $this->quotes->first(); //Grab the first quote 
