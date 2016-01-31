@@ -33,7 +33,14 @@ class Welcome extends Application {
 
 		$this->render();
 	}
-
+ function cool ()
+    {
+        $this->data['pagebody'] = 'justone'; //this is what we want to show
+        $record = $this->quotes->get(2);// Build list of authors
+        $this->data = array_merge($this->data, $record);
+        
+        $this->render(); 
+    }
 }
 
 /* End of file Welcome.php */
