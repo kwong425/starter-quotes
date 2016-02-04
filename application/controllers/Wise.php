@@ -10,7 +10,7 @@ class Wise extends Application {
     function __construct() {
         parent::__construct();
     }
-    
+    //
     function Bingo() {
         $this->data['pagebody'] = 'justone'; // Show  the view
         $record = $this->quotes->get(6); //Grab the socrates quote 
